@@ -1,0 +1,5 @@
+{
+  "name": "MechView AI",
+  "description": "AI-powered tool for mechanical engineers to generate orthographic views from 3D perspective images.",
+  "requestFramePermissions": []
+}
